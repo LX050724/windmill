@@ -1,0 +1,11 @@
+*
+!.gitignore
+!.gitattributes
+!*.SchDoc
+!*.PcbDoc 
+!*.PrjPCB
+!*.md
+!/*.assets
+!/*.assets/*
+!*.PcbLib
+!*.SCHLIB
